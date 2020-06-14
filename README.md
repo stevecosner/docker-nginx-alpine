@@ -1,2 +1,2 @@
-# docker-nginx-alpine-blog
-Build a Docker container with Nginx in Alpine Linux and add the Bootstrap clean blog template.
+# docker-nginx-alpine
+Build docker containers using the Nginx Alpine image.
