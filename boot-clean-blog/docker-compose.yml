@@ -1,0 +1,15 @@
+---
+
+version: "2"
+
+
+
+services:
+
+  nginx-alpine-blog1:
+
+    build: .
+
+    ports:
+
+      - "8002:80"
